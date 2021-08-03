@@ -1,0 +1,66 @@
+				{
+					"anytime" : [
+						"Quoi de neuf?",
+						"Yoh!",
+						"Ca fait plaisir de te voir!",
+						"Re!",
+						"J'ai de la chance d'être ton miroir!",
+						"Je pense t'avoir déjà vu quelquepart?",
+						"Ca faisait longtemps!"
+					],
+					"morning" : [
+						"Bonjour!",
+						"Déjà  pris ton café?",
+						"A fond la forme!"
+					],
+					"afternoon" : [
+						"A ton rythme!",
+						"nous faisons la difference!",
+						"Bientot  le soir!"
+					],
+					"evening" : [
+						"Tu as fait quelques sourires aujourd'hui",
+						"Un apéritif bien mérité .",
+						"Merci pour tes efforts!"
+					],
+					"day_sunny": [
+						"soleil aujourd'hui!",
+						"c'est un beau jour"
+					],
+					"day_cloudy": [
+						"couvert aujourd'hui...",
+						"faut quand même sortir!"
+					],
+					"cloudy": [
+						"nuages, nuages.."
+					],
+					"cloudy_windy": [
+						"couvert et venteux!"
+					],
+					"showers": [
+						"averses, n'oublie pas ton parapluie!"
+					],
+					"snow": [
+						"Il neige!"
+					],
+					"thunderstorm": [
+						"orage, à couvert!"
+					],
+					"fog": [
+						"brouillard"
+					],
+					"night_clear": [
+						"il fait sombre"
+					],
+					"night_cloudy": [
+					],
+					"night_rain": [
+					],
+					"night_thunderstorm": [
+					],
+					"night_alt_cloudy_windy": [
+					],
+					"rain": [
+						"N'oubliez pas le parapluie"
+					]
+				}
