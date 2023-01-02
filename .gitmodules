@@ -1,0 +1,3 @@
+[submodule "MMM-DailyDilbert"]
+	path = MMM-DailyDilbert
+	url = git@github.com:andrecarlucci/MMM-DailyDilbert.git
